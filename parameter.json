@@ -2,15 +2,15 @@
   "repository": [
     {
       "url": "https://github.com/Arunvenkat0/Demandware.git",
-      "username": "arun.venkat@aspiresys.com",
-      "password": "Arun8600"
+      "username": "********",
+      "password": "********"
     }
   ],
   "demandware": [
     {
       "server": "aspire01-tech-prtnr-na07-dw.demandware.net",
-      "username": "althaf.ali",
-      "password": "Aspire@1234"
+      "username": "****"|**,
+      "password": "***********"
     }
   ],
   "project": [
